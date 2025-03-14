@@ -5,3 +5,7 @@ Run with Laravel Sail's command
 Run migrations for the dockerized Postgres DB, good to go. For HMR, run the vite server with
 
 ./vendor/bin/sail npm run dev
+
+It's the Laravel Vue Starter kit with:
+- Bouncer
+- PrimeVue component library
